@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "title": "Dali",
+        "price": 100
+    },
+    {
+        "id": 2,
+        "title": "moong dal",
+        "price": 200
+    },
+    {
+        "id": 2,
+        "title": "moong daaal",
+        "price": 200
+    },
+    {
+        "id": 2,
+        "title": "moong daal",
+        "price": 200
+    },
+    {
+        "id": 3,
+        "title": "masoor dal",
+        "price": 150
+    },
+    {
+        "id": 4,
+        "title": "paneer",
+        "price": 100
+    },
+    {
+        "id": 5,
+        "title": "karl",
+        "price": 500
+    },
+    {
+        "id": 6,
+        "title": "carl",
+        "price": 784
+    },
+    {
+        "id": 7,
+        "title": "oven",
+        "price": 1000
+    },
+    {
+        "id": 8,
+        "title": "oben",
+        "price": 1200
+    },
+    {
+        "id": 9,
+        "title": "biscuit",
+        "price": 45
+    }
+]
